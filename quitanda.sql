@@ -1,4 +1,4 @@
--- Create database
+--  Create database
 create database db_quitanda;  -- criou o banco de dados
 use db_quitanda;              -- esta usando o banco de dados
 drop database db_quitanda;    -- serve para apagar o db 

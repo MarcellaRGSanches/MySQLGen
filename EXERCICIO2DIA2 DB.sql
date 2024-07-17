@@ -1,4 +1,4 @@
-create database distribuidora_db;
+create database distribuidora_db; 
 use distribuidora_db;
 
 create table boxlivros (

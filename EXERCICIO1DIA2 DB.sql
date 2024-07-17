@@ -1,4 +1,4 @@
-create database rh_db;
+create database rh_db; 
 use rh_db;
 
 create table colaboradores (

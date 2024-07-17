@@ -1,4 +1,4 @@
-create database escola_db;
+create database escola_db; 
 use escola_db;
 
 create table alunos (
